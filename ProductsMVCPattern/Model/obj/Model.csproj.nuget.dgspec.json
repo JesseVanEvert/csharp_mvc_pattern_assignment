@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\Model.csproj": {}
+    "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\Model.csproj": {
+    "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\Model.csproj",
+        "projectPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\jesse\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\obj\\",
+        "outputPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

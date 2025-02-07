@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6800C7FF-2595-4068-BA80-EE49767774A4}|Model\\Model.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\productsmvcpattern\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6800C7FF-2595-4068-BA80-EE49767774A4}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31BE67C0-6A85-4E6E-980D-790F656DAC66}|ProductsMVCPattern\\ProductsMVCPattern.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\productsmvcpattern\\productsmvcpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31BE67C0-6A85-4E6E-980D-790F656DAC66}|ProductsMVCPattern\\ProductsMVCPattern.csproj|solutionrelative:productsmvcpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:14:21.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\ProductsMVCPattern\\ProductsMVCPattern\\Program.cs",
               "RelativeDocumentMoniker": "ProductsMVCPattern\\Program.cs",
