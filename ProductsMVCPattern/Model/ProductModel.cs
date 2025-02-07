@@ -26,10 +26,5 @@ namespace Model
                 if (product.Id == id)
                     products.Remove(product);
         }
-
-        public static void DisplayProduct(Product product)
-        {
-            Console.WriteLine($"Name: {product.Name}; Price: {product.Price}");
-        }
     }
 }
