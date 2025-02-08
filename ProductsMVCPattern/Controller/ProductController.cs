@@ -30,5 +30,28 @@ namespace Controller
                 _model.GetProducts()
             );
         }
+
+        public void ProcessUserInput(int choice)
+        {
+            switch(choice) {
+                case 1:
+                    _view.ShowProducts(
+                            _model.GetProducts()
+                        );
+                break;
+                case 2:
+                    _model.AddProduct(
+                            _view.GetProductDetails()
+                    );
+                break;
+                case 3:
+                    _model.RemoveProduct(
+                            _view.GetProductIDForRemoval()
+                    );
+                break;
+                default:
+                    Console.WriteLine("1, 2 or 3");
+                break;
+        }
     }
 }
