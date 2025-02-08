@@ -10,6 +10,8 @@ namespace View
             Console.WriteLine("1: Show products");
             Console.WriteLine("2: Enter details for new product");
             Console.WriteLine("3: Enter ID of product to be removed");
+
+
         }
 
         public void ShowProducts(List<Product> products)
@@ -28,10 +30,10 @@ namespace View
             return new Product(name, price);
         }
 
-        public int GetProductIDForRemoval()
+        public Guid GetProductIDForRemoval()
         {
             Console.WriteLine("Product ID:");
-            return int.Parse(Console.ReadLine() ?? throw new Exception("Null value"));
+            return Guid.Parse(Console.ReadLine() ?? throw new Exception("Null value"));
         }
     }
 }

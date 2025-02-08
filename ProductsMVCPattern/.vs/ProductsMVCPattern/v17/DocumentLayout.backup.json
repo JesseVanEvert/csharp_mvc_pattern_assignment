@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CFBBF5A-97D7-4F35-9467-5D75E7DE322B}|Controller\\Controller.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CFBBF5A-97D7-4F35-9467-5D75E7DE322B}|Controller\\Controller.csproj|solutionrelative:controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31BE67C0-6A85-4E6E-980D-790F656DAC66}|ProductsMVCPattern\\ProductsMVCPattern.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\productsmvcpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BE67C0-6A85-4E6E-980D-790F656DAC66}|ProductsMVCPattern\\ProductsMVCPattern.csproj|solutionrelative:productsmvcpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDC896B3-0A1A-4718-A324-A9B3B1B9E6A2}|View\\View.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\view\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC896B3-0A1A-4718-A324-A9B3B1B9E6A2}|View\\View.csproj|solutionrelative:view\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFBBF5A-97D7-4F35-9467-5D75E7DE322B}|Controller\\Controller.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFBBF5A-97D7-4F35-9467-5D75E7DE322B}|Controller\\Controller.csproj|solutionrelative:controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6800C7FF-2595-4068-BA80-EE49767774A4}|Model\\Model.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6800C7FF-2595-4068-BA80-EE49767774A4}|Model\\Model.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6800C7FF-2595-4068-BA80-EE49767774A4}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31BE67C0-6A85-4E6E-980D-790F656DAC66}|ProductsMVCPattern\\ProductsMVCPattern.csproj|c:\\code\\practice\\design patterns\\mvc pattern\\csharp_mvc_pattern_assignment\\productsmvcpattern\\productsmvcpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31BE67C0-6A85-4E6E-980D-790F656DAC66}|ProductsMVCPattern\\ProductsMVCPattern.csproj|solutionrelative:productsmvcpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Controller\\ProductController.cs",
               "RelativeDocumentMoniker": "Controller\\ProductController.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Controller\\ProductController.cs",
               "RelativeToolTip": "Controller\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T16:12:32.711Z",
               "EditorCaption": ""
@@ -53,48 +53,49 @@
               "RelativeDocumentMoniker": "View\\ProductView.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\View\\ProductView.cs",
               "RelativeToolTip": "View\\ProductView.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:55:10.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\ProductModel.cs",
               "RelativeDocumentMoniker": "Model\\ProductModel.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\ProductModel.cs",
               "RelativeToolTip": "Model\\ProductModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T15:49:56.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Product.cs",
               "RelativeToolTip": "Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T13:14:21.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\ProductsMVCPattern\\Program.cs",
               "RelativeDocumentMoniker": "ProductsMVCPattern\\Program.cs",
               "ToolTip": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\ProductsMVCPattern\\Program.cs",
               "RelativeToolTip": "ProductsMVCPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:13:41.848Z"
+              "WhenOpened": "2025-02-07T13:13:41.848Z",
+              "EditorCaption": ""
             }
           ]
         }

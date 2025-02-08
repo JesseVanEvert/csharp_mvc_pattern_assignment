@@ -1,0 +1,16 @@
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\bin\Debug\net8.0\View.deps.json
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\bin\Debug\net8.0\View.dll
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\bin\Debug\net8.0\View.pdb
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\bin\Debug\net8.0\Model.dll
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\bin\Debug\net8.0\Model.pdb
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.csproj.AssemblyReference.cache
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.AssemblyInfoInputs.cache
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.AssemblyInfo.cs
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.csproj.CoreCompileInputs.cache
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.sourcelink.json
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.csproj.Up2Date
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.dll
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\refint\View.dll
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\View.pdb
+C:\Code\Practice\Design patterns\MVC pattern\csharp_mvc_pattern_assignment\ProductsMVCPattern\View\obj\Debug\net8.0\ref\View.dll

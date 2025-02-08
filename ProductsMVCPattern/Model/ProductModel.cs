@@ -20,11 +20,9 @@ namespace Model
             return products;
         }
 
-        public void RemoveProduct(int id)
+        public void RemoveProduct(Guid id)
         {
-            foreach (Product product in products)
-                if (product.Id == id)
-                    products.Remove(product);
+            products.RemoveAll(p => p.Id.Equals(id));
         }
     }
 }

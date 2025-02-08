@@ -7,9 +7,10 @@
         {
             Name = name;
             Price = price;
+            Id = Guid.NewGuid();
         }
 
-        public int Id { get; set; }
+        public Guid Id { get; private set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
     }

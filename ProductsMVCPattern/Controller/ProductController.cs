@@ -11,15 +11,15 @@ namespace Controller
         public ProductController(ProductModel productModel, ProductView productView)
         {
             _view = productView;
-            _model = productModel;  
+            _model = productModel;
         }
 
         public void AddProductToModel(Product product)
         {
-            _model.AddProduct(product); 
+            _model.AddProduct(product);
         }
 
-        public void RemoveProduct(int id)
+        public void RemoveProduct(Guid id)
         {
             _model.RemoveProduct(id);
         }
@@ -33,25 +33,30 @@ namespace Controller
 
         public void ProcessUserInput(int choice)
         {
-            switch(choice) {
+            switch (choice)
+            {
                 case 1:
                     _view.ShowProducts(
                             _model.GetProducts()
                         );
-                break;
+                    _view.ShowMenu();
+                    break;
                 case 2:
-                    _model.AddProduct(
+                    AddProductToModel(
                             _view.GetProductDetails()
                     );
-                break;
+                    _view.ShowMenu();
+                    break;
                 case 3:
                     _model.RemoveProduct(
                             _view.GetProductIDForRemoval()
                     );
-                break;
+                    _view.ShowMenu();
+                    break;
                 default:
                     Console.WriteLine("1, 2 or 3");
-                break;
+                    break;
+            }
         }
     }
 }

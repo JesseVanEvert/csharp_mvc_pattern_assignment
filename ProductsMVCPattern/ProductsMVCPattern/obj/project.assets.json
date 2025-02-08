@@ -1,11 +1,69 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Controller/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Model": "1.0.0",
+          "View": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Controller.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Controller.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
+      },
+      "View/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/View.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Controller/1.0.0": {
+      "type": "project",
+      "path": "../Controller/Controller.csproj",
+      "msbuildProject": "../Controller/Controller.csproj"
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
+    },
+    "View/1.0.0": {
+      "type": "project",
+      "path": "../View/View.csproj",
+      "msbuildProject": "../View/View.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Controller >= 1.0.0",
+      "Model >= 1.0.0",
+      "View >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jesse\\.nuget\\packages\\": {},
@@ -39,7 +97,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Controller\\Controller.csproj": {
+              "projectPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Controller\\Controller.csproj"
+            },
+            "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Model.csproj": {
+              "projectPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\Model\\Model.csproj"
+            },
+            "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\View\\View.csproj": {
+              "projectPath": "C:\\Code\\Practice\\Design patterns\\MVC pattern\\csharp_mvc_pattern_assignment\\ProductsMVCPattern\\View\\View.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
